@@ -1,0 +1,28 @@
+{
+  "name": "opensiren",
+  "version": "1.0.0",
+  "description": "osint tool for entreprises information",
+  "main": "opensiren.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node opensiren.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yatoub42/opensiren.git"
+  },
+  "keywords": [
+    "osint",
+    "entreprise"
+  ],
+  "author": "Yatoub42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yatoub42/opensiren/issues"
+  },
+  "homepage": "https://github.com/Yatoub42/opensiren#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "puppeteer": "^5.0.0"
+  }
+}
